@@ -13,3 +13,7 @@ body {
 #katie {
   display: block;
 }
+
+ul, ol {
+  list-style-type: none;
+}
